@@ -1,0 +1,15 @@
+.editor table {
+    border-collapse:collapse;
+
+    border: 1px solid black;
+}
+
+.editor tr {
+    min-width: 20px;
+    border: 1px solid black;
+}
+
+.editor td {
+    min-width: 20px;
+    border: 1px solid black;
+}
