@@ -16,10 +16,13 @@ body {
 }
 
 .container {
-  height: 50vh;
+  height: auto;
+  min-height: 50vh;
   width: 100%;
+  width: 700px;
   margin-top: 50px;
   border: 2px solid royalblue;
+  overflow-x: hidden;
 }
 
 button:not(:last-of-type) {
